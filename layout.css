@@ -1,0 +1,33 @@
+#header{
+    background-color: indianred;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 30px;
+}
+#dav {
+    font-weight: italic;
+    padding: 30px;
+    color:black;
+    background-color: cyan;
+    height: 50px;
+    width:auto;
+    text-align: center;
+}
+#nav {
+    font-family: italic;
+    color: black;
+    background-color: rgb(10, 168, 160);
+    float: left;
+    height: 1000px;
+}
+#content {
+    background-color: rgb(72, 194, 153);
+    color: black;
+    padding: 30px;
+    float: right;
+}
+#footer {
+    background-color: cornflowerblue;
+    color: black;
+    text-align: center;
+}
